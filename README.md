@@ -1,5 +1,5 @@
 # FinWise AI
-
+https://finwise-ai-kh2h9hftrnfmjlcytatwac.streamlit.app/
 An educational Streamlit + LangChain prototype that takes a user's income,
 expenses, and savings, computes deterministic financial ratios in Python,
 and uses an LLM to produce structured, educational budgeting guidance.
